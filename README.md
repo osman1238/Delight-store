@@ -18,3 +18,11 @@ An e-commerce website for traditional Bangladeshi clothing including Panjabi, Pa
 
 ## Technologies Used 💻
 - HTML
+![Banner](images/banner.jpg)
+## Product Categories
+- 👔 Panjabi
+- 👖 Payjama
+- 👞 Shoes
+- 👕 Shirts
+- ![GitHub last commit](https://img.shields.io/github/last-commit/osman1238/Delight-store)
+![Website](https://img.shields.io/website/https/osman1238.github.io/Delight-store)
